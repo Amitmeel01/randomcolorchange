@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 600px;
+    border: 1px solid black;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+h3{
+font-weight: 700px;
+}
+button{
+    background: yellow;
+}
